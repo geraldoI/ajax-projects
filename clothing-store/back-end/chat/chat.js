@@ -1,0 +1,1 @@
+alert("Hello! I'm chat of Clothing Store! :)");
